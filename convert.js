@@ -19,7 +19,7 @@ function calculateDays() {
 //Calculating the savings per day
 function calculateSavings() {
     var grainSavings = (Math.floor(grainPerDay * totalDays));
-    document.getElementById("grainSavings").innerHTML;
+    document.getElementById("grainSavings").innerHTML = grainSavings;
     var litreSavings = (Math.floor(litrePerDay * totalDays));
     document.getElementById("litreSavings").innerHTML;
     var forestSavings = (Math.floor(forestPerDay * totalDays));
