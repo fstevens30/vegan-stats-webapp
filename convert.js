@@ -8,6 +8,7 @@ const animalsPerDay = 1;
 var days = document.getElementById("days");
 var months = document.getElementById("months");
 var years = document.getElementById("years");
+var totalDays = calculateDays();
 
 //Calculating the total days
 function calculateDays() {
@@ -28,5 +29,12 @@ function calculateSavings() {
     document.getElementById("animalSavings").innerHTML;
     return grainSavings, litreSavings, forestSavings, animalSavings;
 }
+
+//Savings variables
+const grainSavings = (Math.floor(grainPerDay * totalDays));
+const litreSavings = (Math.floor(litrePerDay * totalDays));
+const forestSavings = (Math.floor(forestPerDay * totalDays));
+const animalSavings = (Math.floor(animalsPerDay * totalDays));
+
 
 
