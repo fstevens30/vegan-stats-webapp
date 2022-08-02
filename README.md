@@ -18,5 +18,8 @@ The data is then displayed nicely for the user to understand the impact they mak
 -------------------------------------------------------------------
 ## Sources 
 
-The data is sourced from the following - 
+The data is sourced from [here](https://www.panmacmillan.com/blogs/lifestyle-wellbeing/environmental-health-benefits-of-being-vegan)
 
+-----------------------------------------------
+
+**Created by Flynn Stevens, NMIT Student, 2022.**
