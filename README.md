@@ -13,7 +13,7 @@ The program will feature a form where a user can input an amount of years, month
 - Kilograms of grain saved :ear_of_rice:
 
 The data is then displayed nicely for the user to understand the impact they make, it will also give cool facts if certain parameters are met.
-- Example; If the user has saved a total of over 3.41km<sup>2</sub> of forest the user will be told that they have saved an area of forest greater than Central Park.
+- Example; If the user has saved a total of over 3.41km<sup>2</sup> of forest the user will be told that they have saved an area of forest greater than Central Park.
 
 -------------------------------------------------------------------
 ## Sources 
