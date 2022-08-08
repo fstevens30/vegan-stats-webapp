@@ -1,3 +1,31 @@
+function calculateSavings() {
+    // Declare savings variable
+    const grainPerDay = 18.1437;
+    const waterPerDay = 4163.953;
+    const forestPerDay = 2.78709;
+    const animalsPerDay = 1; 
+
+   //Get the input values and save as variables
+   var userDays = document.getElementById("days").value;
+   var userMonths = document.getElementById("months").value;
+   var userYears = document.getElementById("years").value;
+
+    //convert the inputs to a single value of total days.
+    var totalDays = userDays + (userMonths * 30.417) + (userYears * 365);
+
+    //Calculate the total savings in each category
+    var totalGrain = math.Floor(totalDays * grainPerDay);
+    var totalWater = math.Floor(totalDays * waterPerDay);
+    var totalForest = math.Floor(totalDays * forestPerDay);
+    var totalAnimals = math.Floor(totalDays * animalsPerDay);
+
+    //Display the total savings in each category
+    document.getElementById("totalGrain").innerHTML = totalGrain;
+    document.getElementById("totalWater").innerHTML = totalWater;
+    document.getElementById("totalForest").innerHTML = totalForest;
+    document.getElementById("totalAnimals").innerHTML = totalAnimals;
+}
+/*
 //Refernce the form
 const myForm = document.getElementById('inputForm');
 
@@ -22,6 +50,7 @@ const inputDays = document.getElementById('days');
 const daysVal = new Object(inputDays.value);
 
 console.log(daysVal)
+*/
 
 /* NOT SURE IF THIS WORKS
 (() => {
