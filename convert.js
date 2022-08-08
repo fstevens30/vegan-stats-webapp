@@ -1,3 +1,5 @@
+//TRYING AGAIN
+
 function calculateSavings() {
     // Declare savings variable
     const grainPerDay = 18.1437;
@@ -25,6 +27,9 @@ function calculateSavings() {
     document.getElementById("totalForest").innerHTML = totalForest;
     document.getElementById("totalAnimals").innerHTML = totalAnimals;
 }
+
+//SECOND TRY TEST CODE
+
 /*
 //Refernce the form
 const myForm = document.getElementById('inputForm');
@@ -51,6 +56,8 @@ const daysVal = new Object(inputDays.value);
 
 console.log(daysVal)
 */
+
+//ORIGINAL TEST CODE
 
 /* NOT SURE IF THIS WORKS
 (() => {
