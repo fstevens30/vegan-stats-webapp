@@ -1,25 +1,53 @@
-# Vegan Stats Web Application
+# Vegan Stats
+A calculator to determine how many resources you will save as a vegan.
+<!-- Live demo [_here_](https://www.example.com).  If you have the project hosted somewhere, include the link here. -->
 
-**Turning my Python Vegan Calculator into a full HTML, CSS and JavaScript program**
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+<!--* [Screenshots](#screenshots) -->
+- [Vegan Stats](#vegan-stats)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Technologies Used](#technologies-used)
+  - [Project Status](#project-status)
+  - [Acknowledgements](#acknowledgements)
+  - [Contact](#contact)
+<!-- * [License](#license) -->
 
-## The Python version can be found [here](https://github.com/fstevens30/python_playground_2022/blob/main/vegan-stats.py).
--------------------------------------------------------------------
-## About
 
-The program will feature a form where a user can input an amount of years, months and days and it will then output a result of what the user has saved during their time as a vegan. The metrics include;
-- Animal lives saved :cow:
-- Square metres of forest saved :deciduous_tree:
-- Litres of water saved :shower:
-- Kilograms of grain saved :ear_of_rice:
+## General Information
+- The project aims to give a visual representation of what you save as a vegan of an inputted length of time.
+- I hope that users will be surprised by their results and hopefully become interested in veganism.
+- I made this project as a way to progress my web development skills and hopefully create something meaningful.
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-The data is then displayed nicely for the user to understand the impact they make, it will also give cool facts if certain parameters are met.
-- Example; If the user has saved a total of over 3.41km<sup>2</sup> of forest the user will be told that they have saved an area of forest greater than Central Park.
 
--------------------------------------------------------------------
-## Sources 
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
 
-The data is sourced from [here](https://www.panmacmillan.com/blogs/lifestyle-wellbeing/environmental-health-benefits-of-being-vegan)
+<!--
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
------------------------------------------------
+## Project Status
+Project is: _in progress_ . Expected to be completed by late September 2022.
 
-**Created by Flynn Stevens, NMIT Student, 2022.**
+## Acknowledgements
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@fstevens30](https://github.com/fstevens30) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
