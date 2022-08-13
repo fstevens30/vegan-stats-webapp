@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="home.css">
+</head>
+
+<body>
+    <div class="intro" id="intro">
+        <div class="intro-text">
+            <h1>Vegan Savings Calculator</h1>
+            <h2>Find out what you can save when living a vegan lifestyle.</h2>
+            <h2>Enter how long you have been vegan or plan to be vegan.</h2>
+        </div>
+        <div>
+            <form id="form" action="results.html">
+                <input type="number" min="0" name="vegan-years" id="vegan-years" placeholder="Years">
+                <input type="number" min="0" name="vegan-months" id="vegan-months" placeholder="Months">
+                <input type="number" min="0" name="vegan-days" id="vegan-days" placeholder="Days">
+                <input onclick="calc()" type="submit" value="Calculate">
+        </div>
+        <script src="script.js"></script>
+</body>
+
+</html>

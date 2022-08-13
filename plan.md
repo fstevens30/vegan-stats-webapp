@@ -18,4 +18,3 @@
 - When calculate is clicked, the page changes to results page.
 
 ------------------------------------------
-
