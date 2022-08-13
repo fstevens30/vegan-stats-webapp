@@ -37,9 +37,8 @@ A calculator to determine how many resources you will save as a vegan.
 Project is: _in progress_ . Expected to be completed by late September 2022.
 
 ## Acknowledgements
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Data for this project was sources from [here]()
+- Many thanks to Ali for helping me
 
 
 ## Contact
