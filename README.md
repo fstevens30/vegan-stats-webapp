@@ -1,15 +1,19 @@
-# Vegan Stats
+# Vegan Stats Web Application
 A calculator to determine how many resources you will save as a vegan.
 <!-- Live demo [_here_](https://www.example.com).  If you have the project hosted somewhere, include the link here. -->
+
+----------------------------------------------------
 
 ## Table of Contents
 * [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
+- [Screenshots](#screenshots)
 - [To Do list](#to-do)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
-
+------------------------------------------------
 
 ## General Information
 - The project aims to give a visual representation of what you save as a vegan of an inputted length of time.
@@ -17,17 +21,24 @@ A calculator to determine how many resources you will save as a vegan.
 - I made this project as a way to progress my web development skills and hopefully create something meaningful.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+---------------------------------------------------------------
+
 
 ## Technologies Used
 - JavaScript
 - HTML
 - CSS
 
+----------------------------------------------------
+
 
 ## Project Status
 Project is: _in progress_ . Expected to be completed by late September 2022.
 
+## Screenshots
+
 ## To Do
+
 ### HTML 
  - [x] Basic template
  - [ ] Header
@@ -45,11 +56,13 @@ Project is: _in progress_ . Expected to be completed by late September 2022.
  - [x] Refactor and bugfix
  - [ ] Simplify variable names
  
+ ----------------------------------------------------------
 
 ## Acknowledgements
 - Data for this project was sources from [here]()
 - Many thanks to Ali for helping me & Tristan for helping with the form.
 
+-----------------------------------------------------------
 
 ## Contact
 Created by [@fstevens30](https://github.com/fstevens30) - feel free to contact me!
