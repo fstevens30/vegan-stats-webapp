@@ -5,15 +5,9 @@ A calculator to determine how many resources you will save as a vegan.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-<!--* [Screenshots](#screenshots) -->
-- [Vegan Stats](#vegan-stats)
-  - [Table of Contents](#table-of-contents)
-  - [General Information](#general-information)
-  - [Technologies Used](#technologies-used)
-  - [Project Status](#project-status)
-  - [Acknowledgements](#acknowledgements)
-  - [Contact](#contact)
-<!-- * [License](#license) -->
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
+
 
 
 ## General Information
