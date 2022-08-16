@@ -18,11 +18,16 @@
             <h2>Enter how long you have been vegan or plan to be vegan.</h2>
         </div>
         <div>
-            <form id="form" action="results.html">
+            <form id="form">
                 <input type="number" min="0" name="vegan-years" id="vegan-years" placeholder="Years">
                 <input type="number" min="0" name="vegan-months" id="vegan-months" placeholder="Months">
                 <input type="number" min="0" name="vegan-days" id="vegan-days" placeholder="Days">
-                <input onclick="calc()" type="submit" value="Calculate">
+                <input type="submit" id="submit" value="Calculate">
+        </div>
+
+        <div>
+            <h2>Results</h2>
+            <p id="results"></p>
         </div>
         <script src="script.js"></script>
 </body>
