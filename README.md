@@ -4,8 +4,9 @@ A calculator to determine how many resources you will save as a vegan.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
+- [To Do list](#to-do)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -22,17 +23,32 @@ A calculator to determine how many resources you will save as a vegan.
 - HTML
 - CSS
 
-<!--
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Project Status
 Project is: _in progress_ . Expected to be completed by late September 2022.
 
+## To Do
+### HTML 
+ - [x] Basic template
+ - [ ] Header
+ - [x] Main Content
+ - [ ] Footer
+ - [ ] Refine form element
+
+### CSS
+ - [ ] Design in figma
+ - [ ] Create CSS
+ - [ ] Bugfix and refactor
+ 
+### JavaScript
+ - [x] Create JavaScript
+ - [x] Refactor and bugfix
+ - [ ] Simplify variable names
+ 
+
 ## Acknowledgements
 - Data for this project was sources from [here]()
-- Many thanks to Ali for helping me
+- Many thanks to Ali for helping me & Tristan for helping with the form.
 
 
 ## Contact
