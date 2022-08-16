@@ -5,13 +5,18 @@ A calculator to determine how many resources you will save as a vegan.
 ----------------------------------------------------
 
 ## Table of Contents
-* [General Info](#general-information)
-- [Technologies Used](#technologies-used)
-* [Project Status](#project-status)
-- [Screenshots](#screenshots)
-- [To Do list](#to-do)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+- [Vegan Stats Web Application](#vegan-stats-web-application)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+  - [Technologies Used](#technologies-used)
+  - [Project Status](#project-status)
+  - [Screenshots](#screenshots)
+  - [To Do](#to-do)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+  - [Acknowledgements](#acknowledgements)
+  - [Contact](#contact)
 
 ------------------------------------------------
 
@@ -36,7 +41,7 @@ A calculator to determine how many resources you will save as a vegan.
 Project is: _in progress_ . Expected to be completed by late September 2022.
 
 ## Screenshots
-![Basic HTML](src/assets/ss1-html.png)
+![Basic HTML](https://../src/assets/ss1-html.png)
 
 ## To Do
 
