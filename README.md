@@ -41,7 +41,7 @@ A calculator to determine how many resources you will save as a vegan.
 Project is: _in progress_ . Expected to be completed by late September 2022.
 
 ## Screenshots
-![Basic HTML](https://../src/assets/ss1-html.png)
+![Basic HTML](https://github.com/fstevens30/vegan-stats-webapp/blob/main/src/assets/ss1-html.png)
 
 ## To Do
 
