@@ -1,0 +1,9 @@
+/* Declaring color variables */
+
+:root {
+    --white: #ffffff;
+    --grey: #EEEEEE;
+    --salmon: #e39774;
+    --l-blue: #5c9ead;
+    --d-blue: #326273;
+}
