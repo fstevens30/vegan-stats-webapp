@@ -11,10 +11,6 @@ A calculator to determine how many resources you will save as a vegan.
   - [Technologies Used](#technologies-used)
   - [Project Status](#project-status)
   - [Screenshots](#screenshots)
-  - [To Do](#to-do)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
   - [Acknowledgements](#acknowledgements)
   - [Contact](#contact)
 
@@ -38,30 +34,12 @@ A calculator to determine how many resources you will save as a vegan.
 
 
 ## Project Status
-Project is: _in progress_ . Expected to be completed by late September 2022.
+Project is: _in progress_ . Almost completed but is not live, feel free to download the source code to try it yourself!
 
 ## Screenshots
-![Basic HTML](https://github.com/fstevens30/vegan-stats-webapp/blob/main/src/assets/ss1-html.png)
+![Home](screenshots/Screen%20Shot%202022-08-29%20at%2014.57.25.png)
+![Results](screenshots/Screen%20Shot%202022-08-29%20at%2014.57.52.png)
 
-## To Do
-
-### HTML 
- - [x] Basic template
- - [ ] Header
- - [x] Main Content
- - [ ] Footer
- - [ ] Refine form element
-
-### CSS
- - [ ] Design in figma
- - [ ] Create CSS
- - [ ] Bugfix and refactor
- 
-### JavaScript
- - [x] Create JavaScript
- - [x] Refactor and bugfix
- - [ ] Simplify variable names
- 
  ----------------------------------------------------------
 
 ## Acknowledgements
