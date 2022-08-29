@@ -8,6 +8,8 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 </head>
 
@@ -27,29 +29,31 @@
         </div>
     </div>
 
-    <div class="results">
-        <h2>Results</h2>
-        <div id="results-container">
+    <div id="results-container">
+        <div class="headings">
             <p>You have been vegan for a total of <span id="vegan-total-days"> </span> days!</p>
             <p>You have saved...</p>
+        </div>
+        <div id="grid">
             <div id="grain-container">
-                <img src="assets/grain.svg" alt="grain" width=100>
+                <i class="fa-solid fa-wheat-awn" style="color:burlywood;"></i>
                 <p><span id="grain"> </span> Kilograms of grain.</p>
             </div>
             <div id="water-container">
-                <img src="assets/tap.svg" alt="water" width=100>
+                <i class="fas fa-water" style="color:lightseagreen;"></i>
                 <p><span id="litre"> </span> Litres of water.</p>
             </div>
             <div id="forest-container">
-                <img src="assets/tree.svg" alt="forest" width=100>
+                <i class="fas fa-tree" style="color:forestgreen;"></i>
                 <p><span id="forest"> </span> m<sup>2</sup> of forest.</p>
             </div>
             <div id="animal-container">
-                <img src="assets/cow.svg" alt="animal" width=100>
+                <i class="fas fa-paw" style="color:darkorange;"></i>
                 <p><span id="animals"> </span> innocent animal lives.</p>
             </div>
         </div>
     </div>
+
 
     <script src="script.js"></script>
 </body>

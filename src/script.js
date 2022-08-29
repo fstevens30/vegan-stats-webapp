@@ -1,16 +1,13 @@
 document.getElementById('submit').addEventListener('click', function() {
     //Showing the results in the #toshow div
     document.getElementById('results-container').style.visibility = 'visible';
-    if (totalDays === 0) {
-        alert('Invalid inputs');
-    }
 
     // Converting the input to a totalDays variable
     const days = document.getElementById('vegan-days').value;
     const months = document.getElementById('vegan-months').value;
     const years = document.getElementById('vegan-years').value;
     const totalDays = Math.floor(days) + Math.floor(months) * 30.412 + Math.floor(years) * 365.25;
-    document.getElementById('vegan-total-days').innerHTML = Math.floor(totalDays);
+    document.getElementById('vegan-total-days').innerHTML = Math.floor(totalDays).toLocaleString();
 
     // Declaring the savings per day
     const grainPerDay = 18.1437;
