@@ -1,6 +1,9 @@
 document.getElementById('submit').addEventListener('click', function() {
     //Showing the results in the #toshow div
     document.getElementById('results-container').style.visibility = 'visible';
+    if (totalDays === 0) {
+        alert('Invalid inputs');
+    }
 
     // Converting the input to a totalDays variable
     const days = document.getElementById('vegan-days').value;
