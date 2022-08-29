@@ -7,3 +7,36 @@
     --l-blue: #5c9ead;
     --d-blue: #326273;
 }
+
+body {
+    background-color: var(--grey);
+    font: 24px 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 700;
+    color: var(--salmon);
+}
+
+h2 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: var(--grey);
+}
+
+#intro {
+    padding: 48px;
+    background-color: var(--d-blue);
+    text-align: center;
+}
+
+#results {
+    background-color: var(--d-blue);
+}
+
+#results-container {
+    visibility: hidden;
+}
