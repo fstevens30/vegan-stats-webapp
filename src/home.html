@@ -14,7 +14,7 @@
 <body>
     <div class="intro" id="intro">
         <div class="intro-text">
-            <h1>Vegan Savings Calculator</h1>
+            <h1 class="title">Vegan Savings Calculator</h1>
             <h2>Find out what you can save when living a vegan lifestyle.</h2>
             <h2>Enter how long you have been vegan or plan to be vegan.</h2>
         </div>
@@ -25,30 +25,33 @@
                 <input type="number" min="0" name="vegan-days" id="vegan-days" placeholder="Days">
                 <input type="button" id="submit" value="Calculate">
         </div>
+    </div>
 
-        <div>
-            <h2>Results</h2>
-            <div id="results-container">
-                <p>You have been vegan for a total of <span id="vegan-total-days"> </span> days!</p>
-                <p>You have saved...</p>
-                <div id="grain-container">
-                    <img src="assets/grain.svg" alt="grain" width=100>
-                    <p><span id="grain"> </span> Kilograms of grain.</p>
-                </div>
-                <div id="water-container">
-                    <img src="assets/tap.svg" alt="water" width=100>
-                    <p><span id="litre"> </span> Litres of water.</p>
-                </div>
-                <div id="forest-container">
-                    <img src="assets/tree.svg" alt="forest" width=100>
-                    <p><span id="forest"> </span> m<sup>2</sup> of forest.</p>
-                </div>
-                <div id="animal-container">
-                    <img src="assets/cow.svg" alt="animal" width=100>
-                    <p><span id="animals"> </span> innocent animal lives.</p>
-                </div>
+    <div class="results">
+        <h2>Results</h2>
+        <div id="results-container">
+            <p>You have been vegan for a total of <span id="vegan-total-days"> </span> days!</p>
+            <p>You have saved...</p>
+            <div id="grain-container">
+                <img src="assets/grain.svg" alt="grain" width=100>
+                <p><span id="grain"> </span> Kilograms of grain.</p>
             </div>
-            <script src="script.js"></script>
+            <div id="water-container">
+                <img src="assets/tap.svg" alt="water" width=100>
+                <p><span id="litre"> </span> Litres of water.</p>
+            </div>
+            <div id="forest-container">
+                <img src="assets/tree.svg" alt="forest" width=100>
+                <p><span id="forest"> </span> m<sup>2</sup> of forest.</p>
+            </div>
+            <div id="animal-container">
+                <img src="assets/cow.svg" alt="animal" width=100>
+                <p><span id="animals"> </span> innocent animal lives.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
