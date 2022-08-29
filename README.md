@@ -29,6 +29,8 @@ A calculator to determine how many resources you will save as a vegan.
 - JavaScript
 - HTML
 - CSS
+- Google Fonts
+- Font Awesome Icons
 
 ----------------------------------------------------
 
@@ -43,7 +45,7 @@ Project is: _in progress_ . Almost completed but is not live, feel free to downl
  ----------------------------------------------------------
 
 ## Acknowledgements
-- Data for this project was sources from [here]()
+- Data for this project was sources from [here](https://www.cowspiracy.com/facts)
 - Many thanks to Ali for helping me & Tristan for helping with the form.
 
 -----------------------------------------------------------
