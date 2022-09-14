@@ -88,7 +88,7 @@ i {
 #results-container {
     padding-top: 0;
     padding: 48px;
-    visibility: hidden;
+    display: none;
     text-align: center;
     background-color: var(--d-blue);
 }
