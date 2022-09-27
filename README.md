@@ -1,6 +1,6 @@
 # Vegan Stats Web Application
 A calculator to determine how many resources you will save as a vegan.
-<!-- Live demo [_here_](https://www.example.com).  If you have the project hosted somewhere, include the link here. -->
+Live demo [_here_](https://fstevens30.github.io/vegan-stats-webapp/).
 
 ----------------------------------------------------
 
