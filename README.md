@@ -36,7 +36,7 @@ A calculator to determine how many resources you will save as a vegan.
 
 
 ## Project Status
-Project is: _in progress_ . Almost completed but is not live, feel free to download the source code to try it yourself!
+Project is: _complete!_ . Currently live on github pages, I still need to update some things to make it look and function better.
 
 ## Screenshots
 ![Home](screenshots/Screen%20Shot%202022-08-29%20at%2014.57.25.png)
